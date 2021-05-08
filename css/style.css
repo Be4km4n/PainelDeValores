@@ -1,0 +1,15 @@
+
+
+.letter-spacing-1 {
+  letter-spacing: .1rem;
+}
+
+.rounded-top-1 {
+  border-top-left-radius: 0.35rem !important;
+  border-top-right-radius: 0.35rem !important;
+}
+
+.rounded-top-2 {
+  border-top-left-radius: 0.45rem !important;
+  border-top-right-radius: 0.45rem !important;
+}
